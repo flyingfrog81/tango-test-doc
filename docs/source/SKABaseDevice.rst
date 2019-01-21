@@ -10,4 +10,5 @@ SKA BaseDevice
    :maxdepth: 2
 
 .. automodule:: skabase.SKABaseDevice
-   :members: SKABaseDevice
+   :members:
+   :undoc-members:

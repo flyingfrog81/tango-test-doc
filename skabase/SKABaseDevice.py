@@ -6,7 +6,7 @@
 #
 
 """ SKABASE
-A generic base device for SKA.
+A generic base TANGO device for SKA.
 """
 
 # PyTango imports
@@ -43,7 +43,7 @@ __all__ = ["SKABaseDevice", "main"]
 
 class SKABaseDevice(Device):
     """
-    A generic base device for SKA.
+    A generic base TANGO device for SKA.
     """
     __metaclass__ = DeviceMeta
     # PROTECTED REGION ID(SKABaseDevice.class_variable) ENABLED START #
