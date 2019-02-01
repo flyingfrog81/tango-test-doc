@@ -12,6 +12,8 @@ Contents:
    :maxdepth: 2
 
    SKA BaseDevice<SKABaseDevice>
+   Sub Module<SubModule>
+   Sub Sub Module<SubSubModule>
 
 Indices and tables
 ==================
